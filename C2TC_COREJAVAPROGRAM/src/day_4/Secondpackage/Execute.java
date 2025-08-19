@@ -1,7 +1,7 @@
-package Secondpackage;
-import com.tnsif.dayfour.firstpackage.Base;
+package day_4.Secondpackage;
+import day_4.Firstpackage.Base;
 
-public class Executor {
+public class Execute {
 	public static void main(String[] args) {
 		// accessing different package class
 		Base b1 = new Base();

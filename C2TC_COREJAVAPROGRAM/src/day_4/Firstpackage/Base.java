@@ -1,4 +1,4 @@
-package Firstpackage;
+package day_4.Firstpackage;
 public class Base {
 	/*
 	 * Declaring default, public, private and protected variables 

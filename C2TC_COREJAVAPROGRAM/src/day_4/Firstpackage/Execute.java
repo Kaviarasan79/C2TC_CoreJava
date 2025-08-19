@@ -1,4 +1,4 @@
-package Firstpackage;
+package day_4.Firstpackage;
 public class Execute {
 	public static void main(String[] args) {
 		
